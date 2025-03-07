@@ -12,7 +12,7 @@ const coffeeItems = [
     description:
       "A futuristic take on classic espresso with notes of dark chocolate and caramel.",
     price: 4.5,
-    image: "/images/espresso.jpg",
+    image: "images/espresso.jpg",
     category: "Espresso",
     rating: 5,
     reviews: 124,
@@ -24,7 +24,7 @@ const coffeeItems = [
     description:
       "Our signature latte infused with vanilla and topped with cosmic-inspired art.",
     price: 5.75,
-    image: "/images/latte1.jpg",
+    image: "images/latte1.jpg",
     category: "Latte",
     rating: 4,
     reviews: 89,
@@ -36,7 +36,7 @@ const coffeeItems = [
     description:
       "A perfect balance of espresso, steamed milk, and iridescent foam.",
     price: 5.25,
-    image: "/images/pp.jpg",
+    image: "images/pp.jpg",
     category: "Cappuccino",
     rating: 5,
     reviews: 76,
@@ -47,7 +47,7 @@ const coffeeItems = [
     description:
       "Rich chocolate and espresso with a floating marshmallow cloud on top.",
     price: 6.5,
-    image: "/images/mocha.jpg",
+    image: "images/mocha.jpg",
     category: "Mocha",
     rating: 5,
     reviews: 103,
@@ -59,7 +59,7 @@ const coffeeItems = [
     description:
       "Slow-steeped for 24 hours, served with our AR flavor enhancer.",
     price: 5.95,
-    image: "/images/coldbrew.jpg",
+    image: "images/coldbrew.jpg",
     category: "Cold Brew",
     rating: 4,
     reviews: 67,
@@ -71,7 +71,7 @@ const coffeeItems = [
     description:
       "Our espresso with a spot of foam, customized to your taste profile.",
     price: 4.75,
-    image: "/images/macchaito.jpg",
+    image: "images/macchaito.jpg",
     category: "Espresso",
     rating: 5,
     reviews: 52,
@@ -85,7 +85,7 @@ const dessertItems = [
     description:
       "Buttery layers that seem to float off the plate, with hints of almond.",
     price: 3.95,
-    image: "/images/cross2.jpg",
+    image: "images/cross2.jpg",
     category: "Pastry",
     rating: 5,
     reviews: 88,
@@ -97,7 +97,7 @@ const dessertItems = [
     description:
       "Deconstructed cheesecake with spherified berry compote and cookie soil.",
     price: 7.5,
-    image: "/images/cheesecake.jpg",
+    image: "images/cheesecake.jpg",
     category: "Cake",
     rating: 4,
     reviews: 45,
@@ -109,7 +109,7 @@ const dessertItems = [
     description:
       "Layers of coffee-soaked ladyfingers and mascarpone, arranged in a pattern inspired by neural networks.",
     price: 6.75,
-    image: "/images/tira.jpg",
+    image: "images/tira.jpg",
     category: "Cake",
     rating: 5,
     reviews: 62,
@@ -284,7 +284,7 @@ const Home = () => {
               <div className="relative">
                 <div className="absolute inset-0 bg-primary-500 rounded-full blur-3xl opacity-20"></div>
                 <img
-                  src="/images/1.jpg"
+                  src="images/1.jpg"
                   alt="Aurora Borealis Blend"
                   className="relative z-10 rounded-xl shadow-2xl"
                 />
