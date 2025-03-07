@@ -68,7 +68,7 @@ bun run preview
 ```
 coffee-shop-website/
 ├── public/              # Static assets
-│   ├── images/          # Image assets
+│   ├── ./images/          # Image assets
 ├── src/                 # Source files
 │   ├── assets/          # Other assets
 │   ├── components/      # Reusable components
@@ -165,7 +165,7 @@ And update the font imports in `src/styles/index.css`.
 
 ## Best Practices Implemented
 
-- **Performance Optimization**: Lazy loading of images and components
+- **Performance Optimization**: Lazy loading of ./images and components
 - **Accessibility**: Semantic HTML and ARIA attributes for better screen reader support
 - **Code Organization**: Modular components with clear separation of concerns
 - **Responsive Design**: Mobile-first approach with tailored experiences for various screen sizes
