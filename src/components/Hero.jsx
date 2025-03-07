@@ -26,10 +26,10 @@ const Hero = () => {
           playsInline
           className="w-full h-full object-cover object-center"
         >
-          <source src="./images/hero.mp4" type="video/mp4" />
+          <source src="/images/hero.mp4" type="video/mp4" />
           {/* Fallback image in case video doesn't load */}
           <img
-            src="./images/pexels-adam-lukac-254247-773958.jpg"
+            src="/images/pexels-adam-lukac-254247-773958.jpg"
             alt="Premium Coffee"
             className="w-full h-full object-cover object-center"
           />

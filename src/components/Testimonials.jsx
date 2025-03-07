@@ -6,7 +6,7 @@ const testimonials = [
     id: 1,
     name: "Batman",
     role: "Coffee Enthusiast",
-    image: "./images/batman.jpg",
+    image: "/images/batman.jpg",
     content:
       "The ambiance at Éthéré Café is absolutely stunning. Their signature blend has transformed my morning routine. The futuristic touch in everything they do makes this place truly special.",
     rating: 5,
@@ -15,7 +15,7 @@ const testimonials = [
     id: 2,
     name: "Ben Tennyson",
     role: "Food Blogger",
-    image: "./images/ben10.jpg",
+    image: "/images/ben10.jpg",
     content:
       "As someone who reviews cafes professionally, I can confidently say that Éthéré Café stands out with their innovative approach to coffee brewing. Their seasonal specials are always something to look forward to.",
     rating: 5,
@@ -24,7 +24,7 @@ const testimonials = [
     id: 3,
     name: "Elena Rodriguez",
     role: "Architect",
-    image: "./images/anadearmas.jpg",
+    image: "/images/anadearmas.jpg",
     content:
       "The design elements in this coffee shop are breathtaking! I come here not just for their exceptional coffee but also for the inspiring atmosphere that helps me think creatively.",
     rating: 5,

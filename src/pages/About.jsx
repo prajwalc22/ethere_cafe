@@ -37,7 +37,7 @@ const About = () => {
               transition={{ duration: 0.8 }}
             >
               <img
-                src="./images/interior1.jpg"
+                src="/images/interior1.jpg"
                 alt="Éthéré Café interior"
                 className="rounded-xl shadow-lg"
               />
@@ -167,25 +167,25 @@ const About = () => {
               {
                 name: "Eliza Chen",
                 role: "Founder & Head Barista",
-                image: "./images/t5.jpg",
+                image: "/images/t5.jpg",
                 bio: "Coffee scientist and former tech executive with a passion for merging tradition with innovation.",
               },
               {
                 name: "Marcus Reynolds",
                 role: "Coffee Sourcing Director",
-                image: "./images/t3.jpg",
+                image: "/images/t3.jpg",
                 bio: "Travels the world to discover and build relationships with the best sustainable coffee farms.",
               },
               {
                 name: "Sophia Patel",
                 role: "Experience Designer",
-                image: "./images/t6.jpg",
+                image: "/images/t6.jpg",
                 bio: "Creates the sensory journeys that make each visit to Éthéré Café memorable and unique.",
               },
               {
                 name: "James Wilson",
                 role: "Culinary Director",
-                image: "./images/t2.jpg",
+                image: "/images/t2.jpg",
                 bio: "Award-winning pastry chef who designs our menu of coffee-complementing treats.",
               },
             ].map((member, index) => (

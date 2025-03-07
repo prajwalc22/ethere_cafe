@@ -21,7 +21,7 @@ const menuItems = [
     description:
       "A futuristic take on classic espresso with notes of dark chocolate and caramel.",
     price: 4.5,
-    image: "./images/espresso.jpg",
+    image: "/images/espresso.jpg",
     category: "espresso",
     rating: 5,
     reviews: 124,
@@ -33,7 +33,7 @@ const menuItems = [
     description:
       "Our signature latte infused with vanilla and topped with cosmic-inspired art.",
     price: 5.75,
-    image: "./images/latte2.jpg",
+    image: "/images/latte2.jpg",
     category: "espresso",
     rating: 4,
     reviews: 89,
@@ -45,7 +45,7 @@ const menuItems = [
     description:
       "A perfect balance of espresso, steamed milk, and iridescent foam.",
     price: 5.25,
-    image: "./images/capp.jpg",
+    image: "/images/capp.jpg",
     category: "espresso",
     rating: 5,
     reviews: 76,
@@ -56,7 +56,7 @@ const menuItems = [
     description:
       "Rich chocolate and espresso with a floating marshmallow cloud on top.",
     price: 6.5,
-    image: "./images/mocha.jpg",
+    image: "/images/mocha.jpg",
     category: "espresso",
     rating: 5,
     reviews: 103,
@@ -70,7 +70,7 @@ const menuItems = [
     description:
       "Single-origin beans prepared with our molecular filtration technique for unmatched clarity.",
     price: 7.25,
-    image: "./images/latte1.jpg",
+    image: "/images/latte1.jpg",
     category: "specialty",
     rating: 5,
     reviews: 56,
@@ -82,7 +82,7 @@ const menuItems = [
     description:
       "Our house blend featuring beans from three continents, roasted to perfection.",
     price: 6.75,
-    image: "./images/latte.jpg",
+    image: "/images/latte.jpg",
     category: "specialty",
     rating: 4,
     reviews: 42,
@@ -95,7 +95,7 @@ const menuItems = [
     description:
       "Slow-steeped for 24 hours, served with our AR flavor enhancer.",
     price: 5.95,
-    image: "./images/coldbrew.jpg",
+    image: "/images/coldbrew.jpg",
     category: "cold",
     rating: 4,
     reviews: 67,
@@ -105,7 +105,7 @@ const menuItems = [
     name: "Cryogenic Nitro Float",
     description: "Nitrogen-infused cold brew topped with frozen vanilla cream.",
     price: 6.5,
-    image: "./images/coldbrew.jpg",
+    image: "/images/coldbrew.jpg",
     category: "cold",
     rating: 5,
     reviews: 83,
@@ -119,7 +119,7 @@ const menuItems = [
     description:
       "Organic Japanese green tea with a shifting color spectrum as it steeps.",
     price: 5.5,
-    image: "./images/coldbrew.jpg",
+    image: "/images/coldbrew.jpg",
     category: "tea",
     rating: 4,
     reviews: 38,
@@ -130,7 +130,7 @@ const menuItems = [
     description:
       "House-made masala chai with warming spices and a touch of vanilla.",
     price: 5.75,
-    image: "./images/coldbrew.jpg",
+    image: "/images/coldbrew.jpg",
     category: "tea",
     rating: 5,
     reviews: 45,
@@ -144,7 +144,7 @@ const menuItems = [
     description:
       "Buttery layers that seem to float off the plate, with hints of almond.",
     price: 3.95,
-    image: "./images/cross.jpg",
+    image: "/images/cross.jpg",
     category: "pastry",
     rating: 5,
     reviews: 88,
@@ -156,7 +156,7 @@ const menuItems = [
     description:
       "Flaky pastry with a surprise center that reveals itself as you eat.",
     price: 4.25,
-    image: "./images/cross3.jpg",
+    image: "/images/cross3.jpg",
     category: "pastry",
     rating: 4,
     reviews: 54,
@@ -169,7 +169,7 @@ const menuItems = [
     description:
       "Deconstructed cheesecake with spherified berry compote and cookie soil.",
     price: 7.5,
-    image: "./images/cheesecake.jpg",
+    image: "/images/cheesecake.jpg",
     category: "dessert",
     rating: 4,
     reviews: 45,
@@ -181,7 +181,7 @@ const menuItems = [
     description:
       "Layers of coffee-soaked ladyfingers and mascarpone, arranged in a pattern inspired by neural networks.",
     price: 6.75,
-    image: "./images/tira.jpg",
+    image: "/images/tira.jpg",
     category: "dessert",
     rating: 5,
     reviews: 62,
